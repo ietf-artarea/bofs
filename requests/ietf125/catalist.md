@@ -4,7 +4,7 @@ Coordinating Agent To Agent List of efforts (CATALIST)
 
 ## Description 
 
-Non-WG-Forming effort to determine the needs of the community regarding AI & Agent related IETF work that is cross area or working group.
+Non-WG-Forming effort to coordinate among the many attempts to develop IETF work around AI agent-to-agent communications.
 
 Over the last few IETF meetings there have been a considerable number of side meetings focused on agent-to-agent communications (especially for AI agents). 
 It was hard for IETF participants to follow all of these meetings especially considering conflicts with the regular IETF agendas.

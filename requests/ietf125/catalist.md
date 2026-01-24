@@ -103,6 +103,9 @@ We suggest the session be held as early as possible in the week, as several ques
     - Questions only for clarification.
 - Is something like MOPS / IoTOPS / PQUIP useful?
 - Open discussion [30 mins 110/120]
+  - What broad topics belong in the IETF scope?
+  - What coordination activity would be useful?
+  - Would it be useful to have similar future meetings?
 - Closing remarks and next steps (chairs and AD) [10 mins 120/120]
 
 ## Relevant I-Ds and Links

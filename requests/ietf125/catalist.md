@@ -12,7 +12,7 @@ It was hard for IETF participants to follow all of these meetings especially con
 This BoF provides an opportunity to:
 
 - Briefly summarize the ecosystem, including work happening outside of the IETF, at W3C, 3GPP, and the Linux Foundation.
-- Briefly summarize work that is happening in IETF side meetings that is progressing on mailing lists.
+- Briefly summarize work that is happening in IETF side meetings and that is progressing on mailing lists.
 - Specifically DMSC and AIProto.
 - Answer questions like what work should be pursued in the IETF?
 - Identify and share existing IETF WGs that are already addressing some of the use cases tangent to agent communication.

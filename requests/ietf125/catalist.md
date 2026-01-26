@@ -23,7 +23,7 @@ Instead, the meeting will provide a forum to share information about these effor
 Note that this BoF is not intended to squelch discussions at side meetings which can continue to be useful to develop and discuss ideas in detail. 
 The meeting is meant to provide a high level overview, and to figure out what would be helpful to the IETF community regarding trends in AI & Agent communication.
 
-This BoF is not for AI Proto or DMSC, it is for discussing the overall ecosystem and the needs of the community.
+This BoF is not for AIProto or DMSC, it is for discussing the overall ecosystem and the needs of the community.
 
 ## In Scope
 
@@ -32,7 +32,7 @@ This BoF is not for AI Proto or DMSC, it is for discussing the overall ecosystem
 This proposal focuses exclusively on the requirements, protocols, and architecture for communication between AI agents, specifically:
 
 * **Discovery and Interoperability:** Enabling agents built on disparate protocols to find and interact with one another.
-* **A2A Architectures:** Standardizing the interface and interaction models between independent AI entities.
+* **Agent-to-Agent Architectures:** Standardizing the interface and interaction models between independent AI agents.
 
 ## Out of Scope
 
@@ -96,7 +96,7 @@ We suggest the session be held as early as possible in the week, as several ques
 - Summary of efforts and their scope. [70 mins 80/120]
   - Outside the IETF, at W3C, 3GPP, and the Linux Foundation.
   - Side meetings at IETF 124 and 123.
-    - AI Proto
+    - AIProto
     - DMSC
     - Mailing list discussions.
     - Short summaries, not deep discussions.
@@ -110,7 +110,13 @@ We suggest the session be held as early as possible in the week, as several ques
 
 ## Relevant I-Ds and Links
 
-There is a discussion mailing list at agent2agent@ietf.org. 
+The agent2agent@ietf.org mailing list discusses possible areas for standardization related to AI agents.
+These include: 
+- standardized ways for AI agents to discover each other, 
+- to discover resources like APIs and documents, 
+- to converse with each other, and so on.
+
+The dmsc@ietf.org will explore solutions for the comprehensive communication architecture that enables secure and efficient collaboration between heterogeneous AI agents, defining function modules, their interoperable protocols and mechanisms that enables AI agents to collaborate effectively to accomplish complex tasks.
 This list discusses possible areas for standardization related to AI agents. 
 The list might result in proposing a BoF, a side meeting or an IAB Workshop. 
 See the IETF 124 side meeting schedule for examples of the kind of work that is being discussed: https://trello.com/b/s1hNprRf/ietf-124-side-meeting-scheduling

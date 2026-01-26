@@ -110,14 +110,20 @@ We suggest the session be held as early as possible in the week, as several ques
 
 ## Relevant I-Ds and Links
 
-The agent2agent@ietf.org mailing list discusses possible areas for standardization related to AI agents.
+The agent2agent@ietf.org non working group mailing list discusses possible areas for standardization related to AI agents.
 These include: 
 - standardized ways for AI agents to discover each other, 
 - to discover resources like APIs and documents, 
 - to converse with each other, and so on.
 
-The dmsc@ietf.org will explore solutions for the comprehensive communication architecture that enables secure and efficient collaboration between heterogeneous AI agents, defining function modules, their interoperable protocols and mechanisms that enables AI agents to collaborate effectively to accomplish complex tasks.
+- [aiproto-draft-charter](https://github.com/jdrosen/aiproto-wg/blob/main/charter.txt)
+
+The dmsc@ietf.org non working group mailing list will explore solutions for the comprehensive communication architecture that enables secure and efficient collaboration between heterogeneous AI agents, defining function modules, their interoperable protocols and mechanisms that enables AI agents to collaborate effectively to accomplish complex tasks.
 This list discusses possible areas for standardization related to AI agents. 
+
+- [dmsc-draft-charter](https://github.com/ietf-dmsc/Charter/blob/main/dmsc-charter.md)
+
+
 The list might result in proposing a BoF, a side meeting or an IAB Workshop. 
 See the IETF 124 side meeting schedule for examples of the kind of work that is being discussed: https://trello.com/b/s1hNprRf/ietf-124-side-meeting-scheduling
 

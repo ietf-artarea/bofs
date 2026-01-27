@@ -63,6 +63,8 @@ BOF proponents:
    Adrian Farrel <adrian@olddog.co.uk>
    Toerless Eckert <tte@cs.fau.de>
    Kehan Yao <khyao78@gmail.com>
+   Aijun Wang <wangaijun@tsinghua.org.cn>
+   
 
 Number of people expected to attend: 200
 

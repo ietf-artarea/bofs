@@ -112,18 +112,18 @@ We suggest the session be held as early as possible in the week, as several ques
 
 ## Relevant I-Ds and Links
 
-The agent2agent@ietf.org mailing list discusses possible areas for standardization related to AI agents.
+The agent2agent@ietf.org non working group mailing list discusses possible areas for standardization related to AI agents.
 These include: 
 - standardized ways for AI agents to discover each other, 
 - to discover resources like APIs and documents, 
 - to converse with each other, and so on.
+- [aiproto-draft-charter](https://github.com/jdrosen/aiproto-wg/blob/main/charter.txt)
 
-The dmsc@ietf.org mailing list is to explore solutions for the comprehensive communication architecture that enables secure and efficient collaboration between heterogeneous AI agents, defining function modules, their interoperable protocols and mechanisms that enables AI agents to collaborate effectively to accomplish complex tasks.
-- This list discusses possible areas for standardization related to AI agents. 
-- The list might result in proposing a BoF, a side meeting or an IAB Workshop. 
+The dmsc@ietf.org non working group mailing list will explore solutions for the comprehensive communication architecture that enables secure and efficient collaboration between heterogeneous AI agents, defining function modules, their interoperable protocols and mechanisms that enables AI agents to collaborate effectively to accomplish complex tasks.
+This list discusses possible areas for standardization related to AI agents. 
+
+- [dmsc-draft-charter](https://github.com/ietf-dmsc/Charter/blob/main/dmsc-charter.md)
 
 Further links to be added depending on agenda items, but see list of prior work above.
 
-We will also work on creating a wiki.ietf.org page for tracking the coordination effort. 
-
-This will provide a shared repository where proponents of related initiatives can briefly summarise their work and link to the relevant home pages, key documents, and other supporting information (e.g., drafts, GitHub repositories, mailing lists, and slide decks).
+The catalist BoF will provide a shared repository where proponents of related initiatives can briefly summarise their work and link to the relevant home pages, key documents, and other supporting information (e.g., drafts, GitHub repositories, mailing lists, and slide decks).

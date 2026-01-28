@@ -59,21 +59,22 @@ Responsible Area: ART. WIT, SEC, INT, OPS, and RTG have an interest.
 
 Responsible ADs: Andy Newton, Orie Steele
 
+Chairs: Yingzhen Qu <yingzhen.ietf@gmail.com>, Adrian Farrel <adrian@olddog.co.uk>
+
 BOF proponents:
-   Adrian Farrel <adrian@olddog.co.uk>
-   Toerless Eckert <tte@cs.fau.de>
-   Kehan Yao <khyao78@gmail.com>
-   Aijun Wang <wangaijun@tsinghua.org.cn>
-   
+   Adrian Farrel <adrian@olddog.co.uk>,
+   Toerless Eckert <tte@cs.fau.de>,
+   Kehan Yao <khyao78@gmail.com>,
+   Aijun Wang <wangaijun@tsinghua.org.cn> 
 
 Number of people expected to attend: 200
 
 Length of session: 2 hours
 
 Conflicts (whole Areas and/or WGs)
-   Chair Conflicts: TBD
-   Technology Overlap: ART, WIT
-   Key Participant Conflict: MPLS, CATS, ANIMA
+* Chair Conflicts: CATS, MPLS, TEAS, PCE, 6MAN, Dispatch, RTGWG, LSR, OPSAWG
+* Technology Overlap: ART, WIT
+* Key Participant Conflict: ART, CATS, ANIMA
 
 ## Information for IAB/IESG
 

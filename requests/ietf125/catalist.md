@@ -74,8 +74,7 @@ Using AI/ML techniques to manage or optimize network operations. This includes:
 **Conflicts (whole Areas and/or WGs):**
 - Chair Conflicts: CATS, MPLS, TEAS, LSR, RTGWG
 - Technology Overlap: ART, WIT
-- Key Participant Conflict: MPLS, CATS, ANIMA, IAB, ANRW, IOTDir, BPF, AICONTROL,  AIPref, PCE, OPSAWG
-
+- Key Participant Conflict: ART, CATS, ANIMA, IAB, ANRW, IOTDir, BPF, AICONTROL,  AIPref, PCE, OPSAWG, 6MAN, Dispatch
 ## Information for IAB/IESG
 
 Several recent side meetings have discussed Agent-to-Agent communication, including meetings at IETF 123 and 124. See [References](#relevant-i-ds-and-links) below for the side meeting Trello URLs and individual proposal mailing lists.

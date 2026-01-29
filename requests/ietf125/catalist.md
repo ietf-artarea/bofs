@@ -13,6 +13,7 @@ This BoF provides an opportunity to:
 - Summarize the ecosystem, including work occurring outside the IETF at W3C, 3GPP, and the Linux Foundation
 - Summarize work occurring in IETF side meetings and progressing on mailing lists.
 - Identify what work should be pursued in the IETF.
+- Identify potential commonalities between the different side meetings
 - Identify and share existing IETF working groups that are addressing use cases related to agent communication.
 
 CATALIST is explicitly not intended to select between competing proposals, nor to prematurely define any end-to-end agent communication protocols. Instead, the meeting will provide a forum to share information about these efforts and to determine whether any recurring meeting would be useful for coordination purposes.

@@ -105,6 +105,7 @@ The session should be scheduled as early as possible in the week to allow questi
         - Would a coordination working group (similar to MOPS, IoTOPS, or PQUIP) be useful?
         - Would similar future meetings be useful?
         - If we have another meeting, should we open this up to all aspects AI networking?
+    - How do we involve the stakeholders from outside the IETF?
 - Closing remarks and next steps (chairs and AD) [10 minutes]
 
 ## Relevant I-Ds and Links
